@@ -1,0 +1,10 @@
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\bin\Debug\Calculator.exe
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\bin\Debug\Calculator.pdb
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\obj\Debug\Calculator.exe
+C:\Users\dfrid\OneDrive\Dators\Programēšana\Visual\Calculator\obj\Debug\Calculator.pdb
